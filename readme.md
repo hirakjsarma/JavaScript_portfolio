@@ -1,0 +1,1 @@
+This repo holds all the javascript projects I have practiced over time. 
